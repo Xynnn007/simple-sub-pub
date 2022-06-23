@@ -1,0 +1,1 @@
+//! subscriber mod for simple pub-sub
